@@ -1,16 +1,55 @@
-## Hi there 👋
+###
 
-<!--
-**Prajyot-d50/Prajyot-d50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, 👋 I'm Prajyot Dabholkar</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Data Analyst With Hands-On Experience In Power BI, SQL, And Excel. I Have Worked On Real Business Dashboards Using SQL Databases And Excel Files, Focusing 
+On Clear Reporting And Practical Insights. I Enjoy Working With Data, Building Meaningful Dashboards, And Continuously Improving My Analytical Skills.
+
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  
+
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+
+
+
+
+
+
+</div>
+
+###
+
+
+<div align="Left">
+
+  <a href="https://www.linkedin.com/in/prajyot-dabholkar-43b38335b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+
+
+</div>
+
+###

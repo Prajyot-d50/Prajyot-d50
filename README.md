@@ -21,7 +21,7 @@ On Clear Reporting And Practical Insights. I Enjoy Working With Data, Building M
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
@@ -43,6 +43,7 @@ On Clear Reporting And Practical Insights. I Enjoy Working With Data, Building M
 
 ###
 
+## 🤝 Connect with me
 
 <div align="Left">
 

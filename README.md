@@ -43,20 +43,16 @@ On Clear Reporting And Practical Insights. I Enjoy Working With Data, Building M
 
 ###
 
-## 🤝 Connect with me
+<h3 align="left">🤝 Connect with me</h3>
 
-<div align="Left">
-
+<p align="left">
   <a href="https://www.linkedin.com/in/prajyot-dabholkar-43b38335b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
-
-
-</div>
-
-###
-
-<div align="Left">
-  <a href="mailto:prajoytdab@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
-</div>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="prajoytdab@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
+         alt="Gmail" width="40" height="40"/>
+  </a>
+</p>

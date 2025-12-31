@@ -54,3 +54,9 @@ On Clear Reporting And Practical Insights. I Enjoy Working With Data, Building M
 </div>
 
 ###
+
+<div align="Left">
+  <a href="mailto:prajoytdab@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
+</div>
+

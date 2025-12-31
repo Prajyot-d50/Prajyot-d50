@@ -56,3 +56,7 @@ On Clear Reporting And Practical Insights. I Enjoy Working With Data, Building M
          alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
+###
+![snake gif](https://github.com/Prajyot-d50/Prajyot-d50/blob/output/github-snake-dark.svg)
+

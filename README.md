@@ -58,5 +58,5 @@ On Clear Reporting And Practical Insights. I Enjoy Working With Data, Building M
 </p>
 
 ###
-![snake gif](https://github.com/Prajyot-d50/Prajyot-d50/blob/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Prajyot-d50/Prajyot-d50/output/github-snake.svg)
 

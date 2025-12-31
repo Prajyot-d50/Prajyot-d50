@@ -25,9 +25,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
-            dist/github-snake-dark.svg?palette=github-dark&color_dots=#30363d,#3fb950,#26a641,#2ea043,#238636
-            dist/ocean.gif?color_dots=#d0d7de,#b6e3ff,#79c0ff,#409eff,#1f6feb
+            dist/github-snake.svg?color_dots=%23ebedf0,%23c6e48b,%237bc96f,%23239a3b,%23196127
+            dist/github-snake-dark.svg?palette=github-dark&color_dots=%2330363d,%233fb950,%2326a641,%232ea043,%23238636
+            dist/ocean.gif?color_dots=%23d0d7de,%23b6e3ff,%2379c0ff,%23409eff,%231f6feb
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -37,5 +37,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake animation"
           commit_message: "Update snake animation"

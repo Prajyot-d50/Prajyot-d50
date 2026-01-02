@@ -23,6 +23,7 @@ On Clear Reporting And Practical Insights. I Enjoy Working With Data, Building M
 ###
 <img align="right" alt="MasterHead" width="400"
 src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
+###
 
 <h3 align="left">🛠 Language and Tools</h3>
 
